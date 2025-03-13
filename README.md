@@ -5,5 +5,6 @@ My name is Liu Xin.  I'm a second-year Master and incoming PhD student at Nanjin
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=EquationWalker&show_icons=true">
 </picture>
 <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EquationWalker&layout=donut">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EquationWalker&layout=donut">
 </picture>
