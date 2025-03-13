@@ -1,4 +1,5 @@
-My name is Liu Xin.  I'm a second-year Master and incoming PhD student at Nanjing University in China.
+### Hi, welcome to my Github 👋
+I am Xin Liu,  a second-year Master and incoming PhD student at Nanjing University in China.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EquationWalker&theme=dark&show_icons=true">
